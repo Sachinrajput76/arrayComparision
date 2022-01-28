@@ -1,5 +1,8 @@
 const div1 = document.getElementById("array1").innerHTML = "array 1"
 const div2 = document.getElementById("array2").innerHTML = "array 2"
+const input1 = document.getElementById("input1")
+const input2 = document.getElementById("input2")
+
 let resultDiv = document.getElementById("result")
 resultDiv.innerHTML = 'result'
 
